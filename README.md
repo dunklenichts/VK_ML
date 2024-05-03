@@ -9,7 +9,7 @@ _________
 
 ### [Code](Vk_ML.ipynb)
 ### [Results](predicted_messages.csv)
-### Дополнительно
+### Screens
 1. Тематическое моделирование для сообщений без содержания спама
 ![text](LDA_nonspam.png)
 
